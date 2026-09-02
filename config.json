@@ -1,28 +1,28 @@
 {
-  "shortcuts": {
-    "simple": {
-      "anarana": "ctrl+alt+1",
-      "fanampiny": "ctrl+alt+2",
-      "daty_nahaterahana": "ctrl+alt+3",
-      "nee_vers": "ctrl+alt+4",
-      "toerana_nahaterahana": "ctrl+alt+5",
-      "ray": "ctrl+alt+6",
-      "reny": "ctrl+alt+7",
-      "adiresy": "ctrl+alt+8",
-      "secteur": "ctrl+alt+9",
-      "asa": "ctrl+alt+0",
-      "cin": "ctrl+alt+a",
-      "daty_karatra": "ctrl+alt+z",
-      "toerana_karatra": "ctrl+alt+e",
-      "numero_serie": "ctrl+alt+r",
-      "lettre_serie": "ctrl+alt+t",
-      "daty": "ctrl+alt+y"
-    },
-    "rapid": "ctrl+alt+1",
-    "previous": "ctrl+alt+o",
-    "next": "ctrl+alt+p"
+  "simple_shortcuts": {
+    "anarana": "ctrl+alt+1",
+    "fanampiny": "ctrl+alt+2",
+    "daty_nahaterahana": "ctrl+alt+3",
+    "nee_vers": "ctrl+alt+4",
+    "toerana_nahaterahana": "ctrl+alt+5",
+    "ray": "ctrl+alt+6",
+    "reny": "ctrl+alt+7",
+    "adiresy": "ctrl+alt+8",
+    "secteur": "ctrl+alt+9",
+    "asa": "ctrl+alt+0",
+    "karapanondro": "ctrl+alt+a",
+    "daty_carte": "ctrl+alt+z",
+    "toerana_carte": "ctrl+alt+e",
+    "laharan_andiany": "ctrl+alt+r",
+    "lettre_serie": "ctrl+alt+t",
+    "daty": "ctrl+alt+y"
   },
+  "rapid_shortcut": "ctrl+alt+1",
+  "previous_shortcut": "ctrl+alt+o",
+  "next_shortcut": "ctrl+alt+p",
+  "pause_shortcut": "ctrl+alt+h",
   "global_hotkeys": true,
   "restore_clipboard": false,
+  "paste_delay_ms": 80,
   "start_minimized": false
 }

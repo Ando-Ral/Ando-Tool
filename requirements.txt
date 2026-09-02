@@ -1,4 +1,4 @@
-PySide6
-pynput
-pyperclip
-PyInstaller
+PySide6>=6.7
+pynput>=1.7.7
+pyperclip>=1.9.0
+PyInstaller>=6.10
